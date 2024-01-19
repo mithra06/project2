@@ -1,8 +1,7 @@
 
 # Search Your PDF
-
 This project is based on searching your pdf with some questions. This is an open source models. There is no OpenAI key required for this model. 
-
+<img src="Screenshot 2024-01-19 150407.png">
 
 ## WorkFlow
 
@@ -50,7 +49,8 @@ Start the server
     python ingest.py
 
     streamlit run app.py 
-## Screenshots
+
+
 
 
 
